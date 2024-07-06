@@ -1,0 +1,87 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
+
+<WORLD>
+    <REF name="ComicoStreet"    x="0" y="-5" z="0" rotX="0" rotY="0" rotZ="0" scaleX="500" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="LongStreet"      x="550" y="-5" z="-600" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="650" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="PeriphStreet"    x="1400" y="-5" z="-1200" rotX="0" rotY="0" rotZ="0" scaleX="800" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="FoodStreet"      x="2150" y="-5" z="-1000" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="JusticeStreet"   x="2600" y="-5" z="-900" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="MafiaStreet"     x="2950" y="-5" z="-350" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="500" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="IkeaStreet"      x="1950" y="-5" z="100" rotX="0" rotY="0" rotZ="0" scaleX="950" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="TotalStreet"     x="1050" y="-5" z="-100" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="CasinoStreet"    x="800" y="-5" z="-200" rotX="0" rotY="0" rotZ="0" scaleX="200" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="HospitalStreet"  x="850" y="-5" z="-850" rotX="0" rotY="0" rotZ="0" scaleX="250" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="DrugsStreet"     x="1150" y="-5" z="-975" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="175" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="CarStreet"       x="1400" y="-5" z="-850" rotX="0" rotY="0" rotZ="0" scaleX="200" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="MoneyStreet"     x="1550" y="-5" z="-675" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="125" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="LuxuryStreet"    x="1800" y="-5" z="-500" rotX="0" rotY="0" rotZ="0" scaleX="300" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="CenterStreet"    x="2150" y="-5" z="-450" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="5" scaleZ="100" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="MainStreet"      x="2500" y="-5" z="-300" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="5" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="SmallStreet"     x="1130" y="-5" z="-500" rotX="0" rotY="0" rotZ="0" scaleX="30" scaleY="5" scaleZ="300" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="LittleStreet"    x="1330" y="-5" z="-480" rotX="0" rotY="0" rotZ="0" scaleX="170" scaleY="5" scaleZ="30" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+    </REF>
+    <REF name="THE WALL"        x="0" y="50" z="-750" rotX="0" rotY="0" rotZ="0" scaleX="500" scaleY="50" scaleZ="-700" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="Trump Wall"      x="1400" y="50" z="-1300" rotX="0" rotY="0" rotZ="0" scaleX="900" scaleY="50" scaleZ="-50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="FoodStreetAppartments" x="2600" y="100" z="-1100" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="100" scaleZ="-150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="LuxeAppartments" x="3400" y="150" z="-650" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="150" scaleZ="-300" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window2.png" mipmapScale = "5">
+    </REF>
+    <REF name="MafiaStreetWall" x="3400" y="150" z="-300" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="150" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="TrumpTower"      x="3400" y="800" z="-50" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="800" scaleZ="-200" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window7.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="KoroAppartments" x="2800" y="100" z="300" rotX="0" rotY="0" rotZ="0" scaleX="200" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="BTRightWall" x="2550" y="100" z="300" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="BigTower"   x="2200" y="600" z="300" rotX="0" rotY="0" rotZ="0" scaleX="300" scaleY="600" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window4.png" mipmapScale = "5">
+    </REF>
+    <REF name="BTLeftWall" x="1850" y="100" z="300" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="ExodusBuilding1" x="1400" y="100" z="300" rotX="0" rotY="0" rotZ="0" scaleX="400" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="ExodusBuilding2" x="800" y="100" z="0" rotX="0" rotY="0" rotZ="0" scaleX="200" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="ComicoAppartments" x="0" y="100" z="200" rotX="0" rotY="0" rotZ="0" scaleX="600" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window8.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="ComicoWall" x="-550" y="50" z="0" rotX="0" rotY="0" rotZ="0" scaleX="50" scaleY="50" scaleZ="50" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="IkeaAppartments1" x="1630" y="100" z="-350" rotX="0" rotY="0" rotZ="0" scaleX="470" scaleY="100" scaleZ="100" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window.jpg" mipmapScale = "5">
+    </REF>
+    <REF name="IkeaAppartments2" x="2030" y="100" z="-100" rotX="0" rotY="0" rotZ="0" scaleX="870" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/window.jpg" mipmapScale = "10">
+    </REF>
+    <REF name="CasinoWall" x="1130" y="50" z="-75" rotX="0" rotY="0" rotZ="0" scaleX="30" scaleY="50" scaleZ="125" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "5">
+    </REF>
+</WORLD>
+
+<REF name="CasinoAppartement" x="2030" y="100" z="-100" rotX="0" rotY="0" rotZ="0" scaleX="870" scaleY="100" scaleZ="150" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/test.jpg" mipmapScale = "5">
+</REF>
+<REF name="GroundExample" x="0" y="-50" z="0" rotX="0" rotY="0" rotZ="0" scaleX="1000" scaleY="5" scaleZ="1000" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/woodplanks.png" mipmapScale = "10">
+</REF>
+<REF name="BuildingExample1" x="1000" y="1000" z="-1000" rotX="0" rotY="0" rotZ="0" scaleX="100" scaleY="500" scaleZ="100" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/wall.jpg" mipmapScale = "10">
+</REF>      
+<REF name="BuildingExample2" x="1600" y="650" z="0" rotX="0" rotY="0" rotZ="0" scaleX="100" scaleY="400" scaleZ="100" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/test2.jpg" mipmapScale = "10">
+</REF>
+<REF name="testWall1"       x="1100" y="40" z="-525" rotX="0" rotY="0" rotZ="0" scaleX="10" scaleY="50" scaleZ="275" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+</REF>
+<REF name="testWall2"       x="1170" y="200" z="-500" rotX="0" rotY="0" rotZ="0" scaleX="10" scaleY="50" scaleZ="300" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/Primitives/cube.obj" textureFile = "./ressources/Textures/ground.png" mipmapScale = "2">
+</REF>  

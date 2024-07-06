@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
+
+<WORLD>
+  <REF name="lol" x="2000" y="500" z="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/x_wing.obj" textureFile = "./ressources/Textures/x_wing.png">
+  </REF>
+</WORLD>
+
+<REF name="lol" x="2000" y="500" z="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" vertexShader = "./ressources/Shaders/shader.vs" fragmentShader = "./ressources/Shaders/shader.fs" object3D = "./ressources/Models/x_wing.obj" textureFile = "./ressources/Textures/x_wing.png">
+</REF>
